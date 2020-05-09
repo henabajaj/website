@@ -115,7 +115,7 @@ $page = "dashboard";
         <!-- END CONTAINER -->
         <!--Begin footer-->
         <?php
-//        require_once("includes/footer.php")
+//        require_once("includes/footer.php") modifying
             ?>
         <!--end footer-->
         <!--[if lt IE 9]>
