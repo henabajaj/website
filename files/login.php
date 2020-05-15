@@ -27,6 +27,7 @@
 			<hr>
 			<form action="process_login.php" method="post">
 			<input type="text" name="username" placeholder="Enter Username"  size="30"/><br>
+			<input type="email" name="email" placeholder="Enter Email"  size="30"/><br>
 			<input type="password" name="password" placeholder="Enter Password"  size=""/><br>
 			<input type="submit" name="submit" value="Login"/>
 			<br>
